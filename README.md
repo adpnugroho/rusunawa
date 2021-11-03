@@ -1,3 +1,8 @@
+# Sistem Informasi Rusunawa
+
+- Laravel Version 8.68.1
+- PHP Version 7.4.15
+
 # Cara Penggunaan
 
 ## Clone file dari server git ke folder lokal
